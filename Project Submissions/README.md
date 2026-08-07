@@ -1,9 +1,4 @@
-## Project Submissions
+## IS430 Final Project Study Aid 
 
-Please submit your final projects to this directory. To submit please [fork the “Info-Proc-Foundations-SU-2026”](https://docs.github.com/en/pull-requests/how-tos/work-with-forks/fork-a-repo) repository. 
+This Study aid is a program I created to help organize my study and research workflow. The program allows users to log study sessions, use a study timer, keep notes on what they completed, view summaries of their study habits, and create research goals. I built this project to practice Python programming while creating a tool that I can use to stay organized during graduate school.
 
-* on your fork named /youraccountname/Info-Proc-Foundations-SU-2026/, upload and publish your code, documentation, and anything else needed to understand and/or run your code.
-
-* follow the cues in the GUI, describe your submission, and then submit.
-
-* once accepted, please submit the accepted link to the corresponding Canvas assignment called Final Project Link (Github).
